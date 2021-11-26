@@ -1,8 +1,23 @@
-
 <h1 align="center">Hi 👋, I'm Adrian Gaile Pedrezuela</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedrian&label=Profile%20views&color=0e75b6&style=flat" alt="codedrian" /> </p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const thai = {
+  pronouns: "he" | "his",
+  code: [Java, Javascript, HTML, CSS, PHP, Flutter],
+  tools: [React, Redux, Node, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    ambassador: "Microsoft",
+    member: "DevConPhilippines",
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
+};
+```
 
 - 🔭 I’m currently working on **something cool**
 
