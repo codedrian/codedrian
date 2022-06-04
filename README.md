@@ -41,5 +41,5 @@ const filipino = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedrian&show_icons=true&locale=en" alt="codedrian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedrian&" alt="codedrian" /></p>
-// new workflow
-![Metrics](https://metrics.lecoq.io/codedrian?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FManila)
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://metrics.lecoq.io/codedrian?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FManila)" alt="php" width="40" height="40"/> </a> </p>
