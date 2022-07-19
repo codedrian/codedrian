@@ -1,4 +1,4 @@
-<h1 align="center">Hiya <img src="./gifs/hi.gif" width="40">, I'm Adrian Gaile Singh</h1>
+<h1 align="center">Hiya <img src="https://user-images.githubusercontent.com/67692336/179810158-2d3d6fdb-507f-4522-bb32-34dbdcb87048.gif" width="40">, I'm Adrian Gaile Singh</h1>
 <h3 align="center">A passionate frontend developer from Philippines <img src="./gifs/cat.gif" width="40"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedrian&label=Profile%20views&color=0e75b6&style=flat" alt="codedrian" /> </p>
@@ -33,8 +33,6 @@ const filipino = {
 <a href="https://medium.com/@codedrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codedrian" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 <details>
   <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedrian&show_icons=true&locale=en&layout=compact" alt="codedrian" /></p>
@@ -44,5 +42,3 @@ const filipino = {
 </details>
 
 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://metrics.lecoq.io/codedrian?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FManila)" alt="php" width="40" height="40"/> </a> </p>
