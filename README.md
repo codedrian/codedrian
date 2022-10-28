@@ -8,7 +8,7 @@
 ```javascript
 const filipino = {
   pronouns: "he" | "his",
-  code: [Java, Javascript, HTML, CSS, PHP, Flutter],
+  code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
