@@ -1,5 +1,5 @@
 <h1 align="center">Hiya <img src="https://user-images.githubusercontent.com/67692336/179810158-2d3d6fdb-507f-4522-bb32-34dbdcb87048.gif" width="40">, I'm Adrian Gaile Singh</h1>
-<h3 align="center">A passionate frontend developer from Philippines <img src="./gifs/cat.gif" width="40"></h3>
+<h3 align="center">A passionate Full Stack developer from Philippines <img src="./gifs/cat.gif" width="40"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedrian&label=Profile%20views&color=0e75b6&style=flat" alt="codedrian" /> </p>
 
