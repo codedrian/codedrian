@@ -26,7 +26,7 @@ const filipino = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
 };
 ```
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/codedrian?theme=wtf&font=Noto%20Sans%20Mro&ext=heatmap)
 
 
 
