@@ -29,6 +29,10 @@ const filipino = {
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
 
+<h2>My Code craft station</h2>
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
 
 <h2>Places you can reach me</h2>
 
