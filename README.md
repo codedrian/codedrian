@@ -31,8 +31,8 @@ const filipino = {
 
 <h2>My Code craft station</h2>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=Windows%2011&logoColor=white)
 
 <h2>Places you can reach me</h2>
 
