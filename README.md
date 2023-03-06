@@ -21,8 +21,12 @@ const filipino = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
 };
 ```
-![Leetcode Stats](https://leetcard.jacoblin.cool/codedrian?theme=wtf)
+<br>
 
+Lost in LeetCode Land, coding my way to success. 🚀 If you can't find me at the gym, you'll find me in my room solving [LeetCode](https://leetcode.com/) challenges.
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/codedrian?theme=wtf)
+<br><br>
 <h2>Technologies I enjoy working with</h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=git&logoColor=white)
