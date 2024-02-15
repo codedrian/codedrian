@@ -25,6 +25,7 @@ const filipino = {
 
 Lost in LeetCode Land, coding my way to success. 🚀 If you can't find me at the gym, you'll find me in my room solving [LeetCode](https://leetcode.com/) and [codewars](https://www.codewars.com/users/codedrian) challenges.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/codedrian?theme=unicorn&extension=activity)
 ![Codewars](https://github.r2v.ch/codewars?user=codedrian&theme=gradient&top_languages=true)
 
 <br><br>
