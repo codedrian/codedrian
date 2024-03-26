@@ -18,7 +18,7 @@ const filipino = {
     ambassador: "Microsoft",
     member: "DevConPhilippines",
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
+  challenge: "I am doing currently learning the CodeIgniter framework",
 };
 ```
 <br>
@@ -31,14 +31,18 @@ Lost in LeetCode Land, coding my way to success. 🚀 If you can't find me at th
 <br><br>
 <h2>Technologies I enjoy working with</h2>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=node.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=https://shields.io/badge/style-flat-green?logo=appveyor&style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 <h2>My Code craft station</h2>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=Windows%2011&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <h2>Places you can reach me</h2>
 
