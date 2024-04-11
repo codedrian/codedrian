@@ -18,7 +18,7 @@ const filipino = {
     ambassador: "Microsoft",
     member: "DevConPhilippines",
   },
-  challenge: "I am doing currently learning the CodeIgniter framework",
+  challenge: "I am currently learning the CodeIgniter framework",
 };
 ```
 <br>
