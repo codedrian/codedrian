@@ -1,24 +1,19 @@
-<h1 align="center">Hiya <img src="https://user-images.githubusercontent.com/67692336/179810158-2d3d6fdb-507f-4522-bb32-34dbdcb87048.gif" width="40">, I'm Adrian Gaile Singh</h1>
+<h1 align="center">Hiya <img src="https://user-images.githubusercontent.com/67692336/179810158-2d3d6fdb-507f-4522-bb32-34dbdcb87048.gif" width="100px">, I'm Adrian Gaile Singh</h1>
 
 [![An image of @codedrian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codedrian)](https://holopin.io/@codedrian)
 
-
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150px"> A little more about me ...
 
 ```javascript
 const filipino = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS],
-  tools: [VScode],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, PHP, Ruby, Laravel, Vue.js, TailwindCSS],
+  tools: [VScode, PHPStorm, Docker, Linux],
+  architecture: ["Monolithic", "Microservices", "Event-Driven"],
   techCommunities: {
     ambassador: "Microsoft",
-    member: "DevConPhilippines",
   },
-  challenge: "I am currently learning the CodeIgniter framework",
+  challenge: "I am currently expanding my knowledge of the Laravel framework",
 };
 ```
 <br>
@@ -26,19 +21,22 @@ const filipino = {
 Lost in LeetCode Land, coding my way to success. 🚀 If you can't find me at the gym, you'll find me in my room solving [LeetCode](https://leetcode.com/) and [codewars](https://www.codewars.com/users/codedrian) challenges.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/codedrian?theme=unicorn&extension=activity)](https://leetcode.com/codedrian/)
-[![Codewars](https://github.r2v.ch/codewars?user=codedrian&theme=gradient&top_languages=true)](https://www.codewars.com/users/codedrian)
 
 <br><br>
-<h2>Technologies I enjoy working with</h2>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# Technologies I enjoy working with
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h2>My Code craft station</h2>
+# Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# My Code craft station
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
